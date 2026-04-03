@@ -68,7 +68,7 @@ I’m open to collaborating on:
 <p align="center">
   <a href="mailto:kawalkardhiraj@gmail.com">Email</a> •
   <a href="https://github.com/Dhirajkawalkar">GitHub</a> •
-  <a href="www.linkedin.com/in/dhiraj-kawalkar-81047a34a">LinkedIN</a>
+  <a href="https://www.linkedin.com/in/dhiraj-kawalkar-81047a34a/">LinkedIN</a>
 </p>
 
 ---
