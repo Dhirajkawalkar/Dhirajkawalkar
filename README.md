@@ -36,14 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhirajkawalkar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhirajkawalkar&theme=tokyonight" />
-</p>
-
----
 
 ## 🎯 Current Focus
 
