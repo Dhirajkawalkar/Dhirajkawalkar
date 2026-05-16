@@ -62,7 +62,7 @@ I’m open to collaborating on:
   <a href="https://github.com/Dhirajkawalkar">GitHub</a> •
   <a href="https://www.linkedin.com/in/dhiraj-kawalkar-81047a34a/">LinkedIN</a>
 </p>
-
+ 
 ---
 
 ## ⚡ Mindset
